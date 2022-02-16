@@ -52,7 +52,8 @@ echo <<<ENDEND
 </head>
 <body>
 	<h2>error_log</h2>
-	<a href="?clear=yolo">clear</a>
+	[<a href="?">refresh</a>] 
+	[<a href="?clear=yolo">clear</a>]
 	<pre>
 
 
